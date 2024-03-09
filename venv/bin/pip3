@@ -1,4 +1,4 @@
-#!/Users/cesar/Desktop/PersonalProjects/django_CRUD/venv/bin/python3.12
+#!/Users/cesar/Desktop/PersonalProjects/django_CRUD/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
